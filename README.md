@@ -10,7 +10,7 @@ Part-1: Optimal Structure Prediction Problem
 
 
 
-Consider a 2D grid of size $$n \times n$$ in which each position can be occupied by at most one amino acid. Given a sequence of hydrophobic or polar amino acids (H or P) of length $$n$$, find the optimal structure of the protein by assigning positions $$r_i$$ to amino acid $$p_i$$ at positions $$i=1...n$$. The optimal structure should minimizes the energy function:
+Consider a 2D grid of size $n \times n$ in which each position can be occupied by at most one amino acid. Given a sequence of hydrophobic or polar amino acids (H or P) of length $$n$$, find the optimal structure of the protein by assigning positions $$r_i$$ to amino acid $$p_i$$ at positions $$i=1...n$$. The optimal structure should minimizes the energy function:
 
 $$H=\sum_{i,j=1...n,i < j}E_{p_ip_j}\delta(r_i-r_j)$$
 
