@@ -2,7 +2,7 @@
 A study of lattice proteins
 
 
-Use simulated annealing (or any other optimization method of your choice) to solve the lattice protein structure prediction and design problems discussed in the last lecture. Please plot your fitness function vs. number of iterations to analyze the convergence characteristics of the model.
+Use simulated annealing (or any other optimization method of your choice) to solve the lattice protein structure prediction and design problems. Please plot your fitness function vs. number of iterations to analyze the convergence characteristics of the model.
 
 
 
